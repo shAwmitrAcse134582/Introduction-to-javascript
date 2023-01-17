@@ -22,3 +22,7 @@ var s2 = "an awesome web developer";
 var s3 = s1 + ' ' + s2;
 console.log(s3);
 
+//problem-4
+var num = 119;
+console.log(num % 5);
+
