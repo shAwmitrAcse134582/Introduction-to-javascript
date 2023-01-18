@@ -15,5 +15,16 @@ console.log(name[0]);
 //find index from array
 console.log(name.indexOf('Nasim'));
 
+//added new element in last position
+age.push(70);
+console.log(age);
+
+//get out last element from array
+name.pop();
+console.log(name);
+name.unshift('kawshik');
+console.log(name);
+age.shift();
+console.log(age);
 
 
