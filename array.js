@@ -22,9 +22,24 @@ console.log(age);
 //get out last element from array
 name.pop();
 console.log(name);
+//added element in first position
 name.unshift('kawshik');
 console.log(name);
+// delete element from first position
 age.shift();
 console.log(age);
+
+//slice array
+var ar = [1, 2, 3, 4, 5, 6];
+
+console.log(ar.slice(1, 4));
+
+//includes function
+
+var f = "I am a student of unversity of Barishal"
+console.log(f.includes('am'));
+
+//substring
+console.log(f.substring(2, 7));
 
 
