@@ -16,7 +16,7 @@ var shopping = {
     shoe: 3200
 }
 console.log(shopping.shirt);
-
+//set object value
 shopping.shoe = 4000;
 console.log(shopping.shoe);
 

@@ -12,3 +12,6 @@ else if (b > a && b > c)
     console.log("b is the  biggest number");
 else
     console.log("c is the biggest number");
+
+   //nested condition
+     

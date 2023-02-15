@@ -1,19 +1,19 @@
 //practise-1
-// function foo() {
-//     console.log('foo');
-// }
-// foo();
-// function bar() {
-//     console.log('bar');
-// }
-// bar();
-// //practise-2
-// function make_avg(a, b, c) {
-//     var avg = (a + b + c) / 3;
-//     return avg;
-// }
-// var values = make_avg(10, 20, 30);
-// console.log(values);
+function foo() {
+    console.log('foo');
+}
+foo();
+function bar() {
+    console.log('bar');
+}
+bar();
+//practise-2
+function make_avg(a, b, c) {
+    var avg = (a + b + c) / 3;
+    return avg;
+}
+var values = make_avg(10, 20, 30);
+console.log(values);
 
 // practise-3
 function mk_avg(ar, n) {
